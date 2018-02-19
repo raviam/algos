@@ -1,4 +1,5 @@
 def BucketSort(A):
+	# Designed to work with whole numbers only.
 	max = 0
 	for i in A:
 		if i > max:
